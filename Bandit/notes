@@ -1,0 +1,9 @@
+xxd -> make hexdump
+	-r -> reverse
+gzip - zcat
+bzip2 - bzcat
+tar -xO - extract (O -> to stdout)
+
+openssl s_client -quiet -connect [host_name]@[port_number]
+test service on certaint port -> telnet [host_name] [port_number]
+
